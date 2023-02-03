@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamdanizakaria
-- 👀 I’m interested in html,css,javascript,python
+- 👀 I’m interested in html,css,javascript,python,java,Data Analyse
 - 🌱 I’m currently learning javasceipt
 - 💞️ I’m looking to collaborate on others
 - 📫 How to reach me hamdanizakaria86@gmail.com
